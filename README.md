@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Coup De Main 🦾<br>👯 I’m looking to collaborate on Coding Projects<br>🤝 I’m looking for help with Web Development<br>🌱 I’m currently learning Full-Stack coding<br>💬 Ask me about music, games, anime, all of them!<br>⚡ Fun fact, i am a gamer and anime fan! I love FMAB.
+🔭 I’m currently working on Personal Projects 🦾<br>👯 I’m looking to collaborate on Coding Projects<br>🤝 I’m looking for help with Web Development<br>🌱 I’m currently learning Full-Stack coding<br>💬 Ask me about music, games, anime, all of them!<br>⚡ Fun fact, i am a gamer and anime fan! I love FMAB.
 
 
 ## 🌐 Socials:
